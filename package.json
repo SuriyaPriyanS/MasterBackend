@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express-validator": "^7.0.1"
+  }
+}
